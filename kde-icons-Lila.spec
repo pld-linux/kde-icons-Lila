@@ -1,4 +1,4 @@
-#$Revision: 1.1 $, $Date: 2004-04-16 21:21:24 $
+#$Revision: 1.2 $, $Date: 2004-04-16 21:23:43 $
 
 %define         _name Lila
 
@@ -6,7 +6,7 @@ Summary:	KDE icons - %{_name}
 Summary(pl):	Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
 Version:	0.5
-Release:	2
+Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://www.kde-look.org/content/files/11492-lilasvg-%{version}.tar.bz2
