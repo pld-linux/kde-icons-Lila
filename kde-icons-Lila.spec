@@ -1,4 +1,4 @@
-#$Revision: 1.2 $, $Date: 2004-04-16 21:23:43 $
+#$Revision: 1.3 $, $Date: 2004-04-17 10:27:29 $
 
 %define         _name Lila
 
@@ -18,7 +18,7 @@ Requires:	kdelibs
 BuildRequires:	librsvg
 BuildRequires:	/usr/bin/python
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
+BuildArch:	noarch
 
 %description
 %{_name} is a violet icon theme ported from GNOME to KDE.
