@@ -1,9 +1,9 @@
-#$Revision: 1.3 $, $Date: 2004-04-17 10:27:29 $
+#$Revision: 1.4 $, $Date: 2007-02-12 00:48:58 $
 
 %define         _name Lila
 
 Summary:	KDE icons - %{_name}
-Summary(pl):	Motyw ikon do KDE - %{_name}
+Summary(pl.UTF-8):   Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
 Version:	0.5
 Release:	1
@@ -23,7 +23,7 @@ BuildArch:	noarch
 %description
 %{_name} is a violet icon theme ported from GNOME to KDE.
 
-%description -l pl
+%description -l pl.UTF-8
 %{_name} to fioletowy motyw ikon sportowany z GNOME.
 
 %prep
