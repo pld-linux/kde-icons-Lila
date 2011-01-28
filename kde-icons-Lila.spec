@@ -1,4 +1,3 @@
-#$Revision: 1.5 $, $Date: 2007-02-13 08:06:36 $
 
 %define         _name Lila
 
